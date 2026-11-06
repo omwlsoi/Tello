@@ -82,6 +82,7 @@
 🌐 웹 주문 화면 실행 (앱 설치 X)
    ↓
 🎙️ 음성 · 터치로 자유롭게 주문
+   ↓
    ↓  음성 → STT(Web Speech API) → 룰베이스 + Gemini(메뉴·수량·옵션 파악) → TTS(음성 안내)
    ↓
 ✅ 텔로링이 주문 내용 읽어주기 → 이용자 최종 확인
@@ -115,8 +116,6 @@
 |:---:|:---:|:---:|:---:|:---:|
 | [이름](https://github.com/PM아이디) | [이름](https://github.com/omwlsoi) | [석연](https://github.com/seokyeonyy) | [예담](https://github.com/yedamimi) | [지윤](https://github.com/BE아이디) |
 | PM | Frontend | Frontend | Backend | Backend |
-| 기획 · 디자인 | 초기 세팅 · 진입 · 메뉴 · 확인 · 사장님 페이지 | 음성 주문 페이지 | 담당 | 담당 |
-
 <br/>
 
 ## 🚀 실행 방법
