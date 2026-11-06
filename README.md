@@ -111,12 +111,10 @@
 
 ## 👩‍💻 팀원 소개
 
-<!-- TODO: PM·백엔드 팀원 깃허브 아이디와 이름, 담당 확인해서 채우기 -->
-| <img src="https://github.com/PM아이디.png" width="100"/> | <img src="https://github.com/omwlsoi.png" width="100"/> | <img src="https://github.com/seokyeonyy.png" width="100"/> | <img src="https://github.com/yedamimi.png" width="100"/> | <img src="https://github.com/BE아이디.png" width="100"/> |
+| <img src="https://github.com/nullux0.png" width="100"/> | <img src="https://github.com/omwlsoi.png" width="100"/> | <img src="https://github.com/seokyeonyy.png" width="100"/> | <img src="https://github.com/yedamimi.png" width="100"/> | <img src="https://github.com/jiyun232.png" width="100"/> |
 |:---:|:---:|:---:|:---:|:---:|
-| [이름](https://github.com/PM아이디) | [이름](https://github.com/omwlsoi) | [석연](https://github.com/seokyeonyy) | [예담](https://github.com/yedamimi) | [지윤](https://github.com/BE아이디) |
+| [소영](https://github.com/nullux0) | [이유진](https://github.com/omwlsoi) | [석연](https://github.com/seokyeonyy) | [예담](https://github.com/yedamimi) | [지윤](https://github.com/jiyun232) |
 | PM | Frontend | Frontend | Backend | Backend |
-<br/>
 
 ## 🚀 실행 방법
 
