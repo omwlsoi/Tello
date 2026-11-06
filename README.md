@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Tello 텔로
@@ -58,7 +59,11 @@
 
 ## 📹 시연 영상
 
-<!-- 여기에 영상 파일 드래그 -->
+
+
+https://github.com/user-attachments/assets/bc559b05-a455-4f6a-ad9f-652e251c6b89
+
+
 
 <br/>
 
