@@ -56,33 +56,21 @@
 
 <br/>
 
-## 📱 화면 미리보기
+## 📹 시연 영상
 
-### 🛒 주문 흐름
-| 첫 화면 | 메뉴 고르기 | 옵션 선택 | 주문 확인 | 주문 현황 |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="img/entry.webp" width="160"/> | <img src="img/menu.webp" width="160"/> | <img src="img/menu-option.webp" width="160"/> | <img src="img/confirm.webp" width="160"/> | <img src="img/status-preparing.webp" width="160"/> |
-
-### 🎙️ 음성 주문
-| 사용법 안내 | 듣는 중 | 옵션 되묻기 | 장바구니 담기 | 메뉴 추천 |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="img/voice-guide.webp" width="160"/> | <img src="img/voice-listen.webp" width="160"/> | <img src="img/voice-option.webp" width="160"/> | <img src="img/voice-added.webp" width="160"/> | <img src="img/voice-recommend.webp" width="160"/> |
-
-### 🙋 막혔을 때 · 🔠 큰 글씨 · 📦 주문 현황
-| 못 알아들으면 직원 호출 | 기본 모드 | 큰 글씨 모드 | 주문 접수 | 메뉴 완성 |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="img/voice-fail.webp" width="160"/> | <img src="img/entry.webp" width="160"/> | <img src="img/entry-big.webp" width="160"/> | <img src="img/status-pending.webp" width="160"/> | <img src="img/status-completed.webp" width="160"/> |
-
-### 🧑‍🍳 사장님 화면
-<p align="center">
-  <img src="img/boss.webp" width="800"/>
-</p>
+<!-- 여기에 영상 파일 드래그 -->
 
 <br/>
 
-## 📹 시연 영상
+## 📱 화면 미리보기
 
-<!-- TODO: 영상 파일을 README 편집창에 드래그하면 자동으로 링크가 생겨요 -->
+| 첫 화면 | 음성 주문 | 옵션 되묻기 | 주문 확인 | 메뉴 완성 |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="img/entry.webp" width="160"/> | <img src="img/voice-guide.webp" width="160"/> | <img src="img/voice-option.webp" width="160"/> | <img src="img/confirm.webp" width="160"/> | <img src="img/status-completed.webp" width="160"/> |
+
+| 🙋 막히면 직원 호출 | 🔠 큰 글씨 모드 | 🧑‍🍳 사장님 화면 |
+|:---:|:---:|:---:|
+| <img src="img/voice-fail.webp" width="160"/> | <img src="img/entry-big.webp" width="160"/> | <img src="img/boss.webp" width="420"/> |
 
 <br/>
 
